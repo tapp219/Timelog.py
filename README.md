@@ -1,4 +1,4 @@
-# Timelog
+# Timelog.py
 Simple Python script that logs a message along with the date and time.
 
 ## Roadmap:
