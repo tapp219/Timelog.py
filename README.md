@@ -8,5 +8,6 @@ Simple Python script that logs a message along with the date and time.
 - [ ] Let user choose which path to create the file
 - [x] Add error handling for file creation if file already exists
 - [ ] Add comments
+- [ ] Add cancel/back options
 - [ ] Check for more bugs
 - [ ] Optimize code
