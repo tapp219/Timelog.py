@@ -10,6 +10,7 @@ Simple Python script that logs a message along with the date and time.
 - [ ] Add comments
 - [ ] Add cancel/back options
 - [ ] Let user choose whether to name the file
+- [ ] Automatically detect if user specifies a file type
 - [ ] Add config file
 - [ ] Check for more bugs
 - [ ] Optimize code
